@@ -8,8 +8,8 @@ My background is in warehouse operations and stock administration. Most of my pr
 
 - a warehouse intelligence platform for stock visualization, process analytics, KPI analysis, and operational performance tracking.
 - a privacy-first personal analytics platform designed to bring long-term personal data into one contextual view.
-— an offline-first Windows application for designing and printing Zebra labels, with ZPL/PDF output, structured imports, local history, and database-backed workflows.
-— several smaller projects and tools assisting and/or replacing warehouse workflows using human input
+- an offline-first Windows application for designing and printing Zebra labels, with ZPL/PDF output, structured imports, local history, and database-backed workflows.
+- several smaller projects and tools assisting and/or replacing warehouse workflows using human input
 
 The current active project repositories are private while they are still in development.
 
