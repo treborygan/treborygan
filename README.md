@@ -1,17 +1,19 @@
 # treborygan
 
-I build practical software, data tools and interesting projects around operations, automation, analytics, and AI.
+I build practical software, data tools and interesting projects around warehouse operations, automation and analytics.
 
-My background is in warehouse operations and stock administration. Most of my projects start with a real process or data problem and focus on replacing manual, fragmented work with clearer data, automation, and usable software.
+My background is in warehouse administration, stock control, and process engineering. Most of my projects start with a real workflow or data problem and focus on replacing manual, fragmented work with clearer data, automation, and usable software.
 
 ## Current work
 
+- a highly customizable file & app launcher with dynamic and modern design, usage analytics, and other advanced features
+- a tool for creating custom, reusable visuals to be used in warehouse operations (like marking specific objects, rackings, aisles etc.)
 - a warehouse intelligence platform for stock visualization, process analytics, KPI analysis, and operational performance tracking.
-- a privacy-first personal analytics platform designed to bring long-term personal data into one contextual view.
+- a personal analytics platform designed to bring long-term personal data into one contextual view.
 - an offline-first Windows application for designing and printing Zebra labels, with ZPL/PDF output, structured imports, local history, and database-backed workflows.
 - several smaller projects and tools assisting and/or replacing warehouse workflows using human input
 
-The current active project repositories are private while they are still in development.
+Most of the active project repositories are private while they are still in development.
 
 ## Tools and technologies
 
@@ -31,11 +33,11 @@ I use AI throughout research, planning, implementation, debugging, documentation
 
 - Warehouse and operational intelligence
 - Data quality, inventory accuracy, and KPI design
-- Process mapping and workflow automation
+- Process engineering, workflow mapping and automation
 - Desktop and web application development
 - Data visualization and interactive interfaces
-- AI-assisted software development
-- Privacy-first personal data systems
+- AI-assisted research and software development
+- Personal data systems, advanced logging and analytics
 - 3D and geospatial visualization
 - All kinds of random topics if they seem to be interesting enough
 
@@ -53,4 +55,4 @@ Open for collaborations, paid and unpaid, as long as I find the project interest
 
 ---
 
-GitHub: [@treborygan](https://github.com/treborygan)
+Feel free to contact me on most platforms with username @treborygan
